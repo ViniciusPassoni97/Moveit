@@ -56,32 +56,3 @@ a{
     text-decoration:none;
 }
 
-.expirience-bar {
-    display:flex;
-    align-items:center;
-}
-
-.expirience-bar span{
-    display:flex;
-    align-items:center;
-}
-.expirience-bar > div {
-    flex: 1;
-    height:4px;
-    border-radius:4px;
-    background:var(--gray-line);
-    margin:0 1.5rem;
-    position:relative;
-    z-index: 1;
-}
-.expirience-bar-progress {
-    width: 60%;
-    height:4px;
-    border-radius:4px;
-    background:var(--green);
-    z-index: 0;
-}
-span.current-expirience{
-    position: absolute;
-    top:12px;
-}

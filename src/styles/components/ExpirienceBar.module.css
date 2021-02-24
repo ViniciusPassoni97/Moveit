@@ -1,0 +1,29 @@
+.expirienceBar {
+    display:flex;
+    align-items:center;
+}
+
+.expirienceBar span{
+    display:flex;
+    align-items:center;
+}
+.expirienceBar > div {
+    flex: 1;
+    height:4px;
+    border-radius:4px;
+    background:var(--gray-line);
+    margin:0 1.5rem;
+    position:relative;
+    z-index: 1;
+}
+.expirienceBarProgress {
+    width: 60%;
+    height:4px;
+    border-radius:4px;
+    background:var(--green);
+    z-index: 0;
+}
+span.currentExpirience{
+    position: absolute;
+    top:12px;
+}
