@@ -26,7 +26,7 @@ export const ChallengeContext = createContext({} as ChallengeContextData);
 
 export function ChallengesProvieder({children}:ChallengesProvieder) {
     const [level,setLevel] = useState(1);
-    const [currentExpirience, setCurrentExpirence] = useState(0);
+    const [currentExpirience, setCurrentExpirence] = useState(10);
     const [challengeCompleted,setChallengeCompleted] = useState(0);
     const [activeChallenge, setActiveChallenge] = useState(null)
 
