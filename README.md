@@ -6,13 +6,13 @@ Aplicação foi desenvolvida na NLW4, evento ministrado por [Diego Fernandes](ht
 
 # Ferramentas de Desenvolvimento 
 
-Projeto feito com React.js utiliando o framework de desenvolvimento Front-End chamado Next.js, com o objetivo de trabalhar com os conceitos de Server Side Rendering e para a tipagem foi utilizado o TypeScript.
+Projeto feito com React.js utiliando o framework de desenvolvimento Front-End chamado [Next.js](https://nextjs.org), com o objetivo de trabalhar com os conceitos de Server Side Rendering, SPA e para a tipagem foi utilizado o TypeScript.
+A [Context Api](https://pt-br.reactjs.org/docs/context.html) foi de suma importância para o comunição entre os componentes do react.
 
 # Rodando a aplicação 
 
-Para rodas a aplicação existem 3 scripts:
+Para rodar a aplicação existem 3 scripts:
 
 1) yarn dev
 2) yarn start
 3) yarn build
-
