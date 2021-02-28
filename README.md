@@ -1,6 +1,6 @@
-## Ferramentas de Desenvolvimento 
+# Ferramentas de Desenvolvimento 
 
-# Projeto feito com React.js utiliando o framework de desenvolvimento Front-End chamado Next.js, com o objetivo de trabalhar com os conceitos de Server Side Rendering e para a tipagem foi utilizado o TypeScript
+Projeto feito com React.js utiliando o framework de desenvolvimento Front-End chamado Next.js, com o objetivo de trabalhar com os conceitos de Server Side Rendering e para a tipagem foi utilizado o TypeScript.
 
 ## Learn More
 
