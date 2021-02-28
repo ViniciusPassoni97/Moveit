@@ -2,14 +2,13 @@
 
 Projeto feito com React.js utiliando o framework de desenvolvimento Front-End chamado Next.js, com o objetivo de trabalhar com os conceitos de Server Side Rendering e para a tipagem foi utilizado o TypeScript.
 
-## Learn More
+# Rodando a aplicação 
 
-To learn more about Next.js, take a look at the following resources:
+Para rodas a aplicação existem 3 scripts:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1) yarn dev
+2) yarn start
+3) yarn build
 
 ## Deploy on Vercel
 
